@@ -1,5 +1,23 @@
 # P7
 SSDI - project 7
+
+# SCRUM TEAM
+
+# Product Owner
+Nishit Shah
+
+Lythe Elhulu
+
+# SCRUM MASTER
+Shreyas Ganeshguru 
+
+# Developers
+Akriti Saxena
+
+Neketha Suresh
+
+Tanvi Garg
+
 # Prerequisites
 Before running the project, make sure you have the following installed on your system:
 
