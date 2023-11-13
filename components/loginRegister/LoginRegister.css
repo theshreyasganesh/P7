@@ -1,0 +1,42 @@
+/* LoginStyles.css */
+
+.login-register {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100%;
+}
+
+.login-box,
+.register-box {
+  display: flex;
+  justify-content: center;
+  flex-direction: column;
+  width: 20rem;
+  height: 30rem;
+  margin-bottom: 5rem;
+  background-color: #e9e9e9;
+  padding: 0 5rem;
+}
+
+.login-header,
+.register-header {
+  text-align: center;
+  font-size: 2rem !important;
+  margin-bottom: 2rem !important;
+}
+
+.login-button,
+.login-register-button {
+  margin-top: 1rem !important;
+}
+
+.login-password {
+  margin-top: 1rem !important;
+}
+
+.login-error,
+.register-error {
+  text-align: center;
+  margin-top: 2rem !important;
+}

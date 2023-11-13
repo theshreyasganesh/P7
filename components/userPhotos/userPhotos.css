@@ -1,0 +1,14 @@
+.photos-comment-link a {
+  color: rgba(0, 0, 0, 0.87);
+  text-decoration: none;
+}
+
+.comment-dialog .MuiDialog-container .MuiPaper-root {
+  width: 25rem;
+}
+
+.comment-plus-button {
+  width: 100%;
+  justify-content: end!important;
+  font-size: 2rem!important;
+}
